@@ -1,0 +1,19 @@
+- Bio-Setup
+	. Air 40x
+		Kx: 0.01679
+		Ky: 0.016065
+		Kz: 0.1
+	. Oil 100x
+		Kx: 0.042
+		Ky: 0.042
+		Kz: 0.1
+
+- Phy-Setup
+	. Air 40x
+		Kx: 0.0086375
+		Ky: 0.0086375
+		Kz: 0.1
+	. Oil 100x
+		Kx: 
+		Ky: 
+		Kz: 0.1
